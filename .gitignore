@@ -1,0 +1,38 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Chat Bot with Java/*
+!/Simple Chat Bot with Java/task/
+/Simple Chat Bot with Java/task/*
+!/Simple Chat Bot with Java/task/src
+
+# Project exclude paths
+/Topics/Conditional statement/Interval/out/
+/Topics/Conditional statement/Interval/out/production/classes/
+/Topics/Conditional statement/Leap year/out/
+/Topics/Conditional statement/Leap year/out/production/classes/
+/Topics/For-loop/Fizz Buzz/out/
+/Topics/For-loop/Fizz Buzz/out/production/classes/
+/Topics/For-loop/Generate an inverted pyramid from asterisks/out/
+/Topics/For-loop/Generate an inverted pyramid from asterisks/out/production/classes/
+/Topics/For-loop/The count of numbers divisible by N/out/
+/Topics/For-loop/The count of numbers divisible by N/out/production/classes/
+/Topics/For-loop/The product of numbers from a to b/out/
+/Topics/For-loop/The product of numbers from a to b/out/production/classes/
+/Topics/One-line condition with ternary operator/Check if a given number is equal to 10/out/
+/Topics/One-line condition with ternary operator/Check if a given number is equal to 10/out/production/classes/
+/Topics/String/Duplicating every character in a given string/out/
+/Topics/String/Duplicating every character in a given string/out/production/classes/
+/Topics/String/Extracting a substring/out/
+/Topics/String/Extracting a substring/out/production/classes/
+/Topics/String/Replacing 'a' with 'b'/out/
+/Topics/String/Replacing 'a' with 'b'/out/production/classes/
